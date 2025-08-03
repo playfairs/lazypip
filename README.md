@@ -23,17 +23,17 @@ This project will use vim keybindings, if this changes then it will be documente
 
 ### Installation
 
-#### Homebrew
+#### Homebrew (The Go version, recommended)
 ```bash
 brew install lazypip
 ```
 
-#### PyPi
+#### PyPi (The Python version, not recommended unless you don't care about the TUIs appearance)
 ```bash
 pip install lazypip
 ```
 
-#### Source
+#### Source (The Go version, recommended)
 ```bash
 git clone https://github.com/playfair/lazypip.git
 cd lazypip
