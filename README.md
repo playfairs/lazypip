@@ -42,4 +42,4 @@ make
 
 ### Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request. (Please, I beg.)# lazypip
+Contributions are welcome! Please feel free to submit a Pull Request. (Please, I beg.)
